@@ -1,0 +1,30 @@
+{
+  "name": "ciuhoang-test-tea",
+  "version": "0.0.1",
+  "description": "a simple scaffolding tool",
+  "main": "first-step.js",
+  "bin": {
+    "first-step-benchmark": "./first-step.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stomper013/ciuhoang-test-tea"
+  },
+  "keywords": [
+    "scaffolding",
+    "first-step"
+  ],
+  "author": "stomper013",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stomper013/ciuhoang-test-tea/issues"
+  },
+  "homepage": "https://github.com/stomper013/ciuhoang-test-tea#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "first-step-benchmark": "^0.1.1"
+  }
+}
